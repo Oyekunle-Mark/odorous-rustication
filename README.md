@@ -4,4 +4,4 @@ This repository contains the practice codes from learning Rust. The bulk will be
 
 ## Author
 
-Oyekunle Oloyede
+_Oyekunle Oloyede_
