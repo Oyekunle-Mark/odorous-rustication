@@ -30,4 +30,10 @@ fn main() {
     let quarter = Coin::Quarter(UsState::Alabama);
 
     println!("The value of quarter is {}!", value_in_cents(quarter));
+
+    let some_u8_value = Some(3);
+
+    if let Some(1) = some_u8_value {
+        println!("Three");
+    }
 }
