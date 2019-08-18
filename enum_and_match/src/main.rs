@@ -35,5 +35,7 @@ fn main() {
 
     if let Some(1) = some_u8_value {
         println!("Three");
+    } else {
+        println!("Not a three");
     }
 }
